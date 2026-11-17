@@ -6,8 +6,7 @@ I build interfaces that feel finished, from Makassar, Indonesia.
 components, blocks and Next.js dashboards, free and open source.
 Pro dashboards and app screens are coming soon.
 
-**Before:** WordPress themes and plugins (news themes, visitor stats,
-football data, thumbnail cleanup) for Indonesian publishers.
+**Before:** WordPress themes and plugins for Indonesian publishers.
 
 **Stack:** Next.js · React · TypeScript · Tailwind CSS · PHP · WordPress
 
